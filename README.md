@@ -4,7 +4,7 @@
 # Day 1
 Built a drum set with using the homekeys. 
 
-Learned: Can trigger event based on hitting a key with "window.addEventListener('keydown')"
+Learned: Can trigger event based on hitting a key with "window.addEventListener('keydown')".
 
 # Day 2
 Built a clock that shows real time.
