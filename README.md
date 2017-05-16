@@ -2,7 +2,7 @@
 30 Projects in 30 Days
 
 # Day 1
-Built a drum set with using the homekeys. 
+Built a drum set with using the homekeys.
 
 Learned: Can trigger event based on hitting a key with "window.addEventListener('keydown')".
 
@@ -19,3 +19,10 @@ Built a site that modifies pictures via a UI interface.
 Learned:
 _______
 * How to use css variables.
+
+# Day 4
+Array practice
+Learned:
+_______
+* Various ways to manipulate arrays.
+* How to use arrow functions.
