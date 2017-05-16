@@ -8,6 +8,7 @@ Learned: Can trigger event based on hitting a key with "window.addEventListener(
 
 # Day 2
 Built a clock that shows real time.
+
 Learned:
 _______
 * Every second or minute is 6 degrees on a cloc using the formula (min / 60) * 360.
@@ -16,12 +17,14 @@ _______
 
 # Day 3
 Built a site that modifies pictures via a UI interface.
+
 Learned:
 _______
 * How to use css variables.
 
 # Day 4
-Array practice
+Array practice.
+
 Learned:
 _______
 * Various ways to manipulate arrays.
