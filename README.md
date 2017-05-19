@@ -29,3 +29,11 @@ Learned:
 _______
 * Various ways to manipulate arrays.
 * How to use arrow functions.
+
+# Day 5
+Made a flexbox photo gallery.
+
+Learned:
+_______
+* How to use flexbox.
+* Practiced adding/removing classes in JavaScript.
