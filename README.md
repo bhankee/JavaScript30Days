@@ -45,3 +45,6 @@ Learned:
 _______
 * How to create an array from JSON file.
 * Use Ajax to send data.
+
+# Day 7
+Array practice.
