@@ -43,5 +43,5 @@ Made a city/state search using Ajax and JSON.
 
 Learned:
 _______
-* How to create an array from JSON file
+* How to create an array from JSON file.
 * Use Ajax to send data.
