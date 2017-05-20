@@ -37,3 +37,11 @@ Learned:
 _______
 * How to use flexbox.
 * Practiced adding/removing classes in JavaScript.
+
+# Day 6
+Made a city/state search using Ajax and JSON.
+
+Learned:
+_______
+* How to create an array from JSON file
+* Use Ajax to send data.
