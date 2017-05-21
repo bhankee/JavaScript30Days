@@ -48,3 +48,11 @@ _______
 
 # Day 7
 Array practice.
+
+# Day 8
+Made a drawing app with Canvas.
+
+Learned:
+_______
+* How to use JavaScript to add functionality to Canvas.
+* Drawing functions.
