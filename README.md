@@ -56,3 +56,6 @@ Learned:
 _______
 * How to use JavaScript to add functionality to Canvas.
 * Drawing functions.
+
+# Day 9
+Learned various dev tools in the console.
