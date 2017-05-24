@@ -59,3 +59,10 @@ _______
 
 # Day 9
 Learned various dev tools in the console.
+
+# Day 10
+Made a form that allows user to hold "shift" and select range of checkboxes.
+
+Learned:
+_______
+* How to use JavaScript to add range on a form.
