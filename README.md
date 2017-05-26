@@ -66,3 +66,12 @@ Made a form that allows user to hold "shift" and select range of checkboxes.
 Learned:
 _______
 * How to use JavaScript to add range on a form.
+# Day 11
+Code needs updating for exercise.
+
+# Day 12
+Used JavaScript to add key sequencing to trigger a function.
+
+Learned:
+_______
+* How to use JavaScript to add keys to an array and compare against a string.
