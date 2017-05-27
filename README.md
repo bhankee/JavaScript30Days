@@ -75,3 +75,9 @@ Used JavaScript to add key sequencing to trigger a function.
 Learned:
 _______
 * How to use JavaScript to add keys to an array and compare against a string.
+# Day 13
+Used JavaScript to add image events on scroll.
+
+Learned:
+_______
+* How to use JavaScript to add events on scroll.
