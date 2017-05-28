@@ -81,3 +81,10 @@ Used JavaScript to add image events on scroll.
 Learned:
 _______
 * How to use JavaScript to add events on scroll.
+
+# Day 14
+Learned the difference between reference and copy in JS.
+
+Learned:
+_______
+* How to use JavaScript for referencing objects, copying objects and the difference.
