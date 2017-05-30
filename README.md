@@ -95,3 +95,10 @@ Learned about local storage on a browser.
 Learned:
 _______
 * How to use JavaScript for utilizing local storage to save list data.
+
+# Day 16
+Learned how to move text shadows with mouse event.
+
+Learned:
+_______
+* How to use JavaScript for moving mouse shadows.
