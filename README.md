@@ -101,4 +101,4 @@ Learned how to move text shadows with mouse event.
 
 Learned:
 _______
-* How to use JavaScript for moving mouse shadows.
+* How to use JavaScript for moving text shadows.
