@@ -88,3 +88,10 @@ Learned the difference between reference and copy in JS.
 Learned:
 _______
 * How to use JavaScript for referencing objects, copying objects and the difference.
+
+# Day 15
+Learned about local storage on a browser.
+
+Learned:
+_______
+* How to use JavaScript for utilizing local storage to save list data.
