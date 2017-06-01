@@ -102,3 +102,10 @@ Learned how to move text shadows with mouse event.
 Learned:
 _______
 * How to use JavaScript for moving text shadows.
+
+# Day 17
+Learned how to make a sorted list with neglecting certain words.
+
+Learned:
+_______
+* How to use JavaScript to sort arrays with removing certain common words but keeping those words in the actual array.
