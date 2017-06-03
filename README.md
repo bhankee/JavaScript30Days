@@ -109,3 +109,10 @@ Learned how to make a sorted list with neglecting certain words.
 Learned:
 _______
 * How to use JavaScript to sort arrays with removing certain common words but keeping those words in the actual array.
+
+# Day 18
+Learned how to total up times of videos.
+
+Learned:
+_______
+* How to use JavaScript to sort arrays and split up minutes and seconds in order to get a total value of all times.
