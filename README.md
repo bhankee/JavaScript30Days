@@ -116,3 +116,13 @@ Learned how to total up times of videos.
 Learned:
 _______
 * How to use JavaScript to sort arrays and split up minutes and seconds in order to get a total value of all times.
+
+# Day 19
+Code needs updating for exercise.
+
+# Day 20
+Learned how to use built-in speech recognition in browser.
+
+Learned:
+_______
+* How to use JavaScript and HTML to do basic speech recognition.
