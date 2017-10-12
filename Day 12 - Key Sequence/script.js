@@ -8,7 +8,7 @@ window.addEventListener('keyup' , (e) => {
 
 
     if(pressed.join('').includes(secretCode)){
-        alert('Secret Code!');
+        alert('Happy Alert!');
         cornify_add();
     }
     console.log(pressed);
